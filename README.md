@@ -48,8 +48,8 @@ This project explores customer behavior, restaurant performance, and food orderi
 - `Day 10 report` Full project summary with visual insights
 - `Day 9.xlsx` – Excel dashboard
 - `README.md` – You’re here!
-- reports/ → move Day-8 PDF and ER diagram
-- dataset/ → move the dataset ZIP
+- `reports` → move Day-8 PDF and ER diagram
+- `dataset` → move the dataset ZIP
 
 ---
 
