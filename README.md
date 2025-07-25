@@ -45,7 +45,7 @@ This project explores customer behavior, restaurant performance, and food orderi
 ## 🗂️ Project Files
 
 - `/sql-files/day-1.sql` to `day-8.sql` – All daily SQL tasks
-- `Day 10 report' Full project summary with visual insights
+- `Day 10 report` Full project summary with visual insights
 - `Day 9.xlsx` – Excel dashboard
 - `README.md` – You’re here!
 
