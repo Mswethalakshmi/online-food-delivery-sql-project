@@ -1,4 +1,5 @@
 ![Project Banner](./banner.png.jpg)
+
 ---
 # 🍽️ Online Food Delivery – SQL Project
 
