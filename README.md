@@ -45,7 +45,7 @@ This project explores customer behavior, restaurant performance, and food orderi
 ## 🗂️ Project Files
 
 - `/sql-files/day-1.sql` to `day-8.sql` – All daily SQL tasks
-- `Day-8_Project_Report.pdf` – Full project summary with visual insights
+- `Day 10  Full project summary with visual insights
 - `Day 9.xlsx` – Excel dashboard
 - `README.md` – You’re here!
 
@@ -60,21 +60,6 @@ This project explores customer behavior, restaurant performance, and food orderi
 - E-commerce insights
 
 ---
-
-## 🙌 Special Thanks
-
-Thanks to **[@DataPencil](https://www.linkedin.com/company/datapencil)** and **[@Kalyani Bhatnagar](https://www.linkedin.com/in/kalyani-bhatnagar/)** for this learning opportunity!
-
----
-
-## 📬 Contact
-
-👩‍💻 Swethalakshmi  
-📧 swethalakshmimjs2002@gmail.com  
-🔗 [My LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-
----
-
 ## 🔖 Tags
 
 `#SQL` `#DataAnalytics` `#BusinessIntelligence` `#MySQL` `#Ecommerce` `#PortfolioProject`
