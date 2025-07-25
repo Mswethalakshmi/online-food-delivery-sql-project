@@ -4,8 +4,7 @@ A 10-day SQL analysis project as part of the **DataPencil SQL Challenge**.
 This project explores customer behavior, restaurant performance, and food ordering trends using SQL on an online food delivery dataset.
 
 ---
-![Project Banner](./banner.png)
----
+![Project Banner](./banner.png.j)
 
 ## 📁 Dataset Overview
 
